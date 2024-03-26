@@ -1,10 +1,12 @@
 package com.example.pt.repository.user;
 
 import com.example.pt.repository.BaseEntity;
-import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
+
+import javax.persistence.*;
+
 @Getter
 @Setter
 @ToString

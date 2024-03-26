@@ -1,12 +1,12 @@
 package com.example.pt.repository.booking;
 
 import com.example.pt.repository.BaseEntity;
-import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
 
+import javax.persistence.*;
 import java.time.LocalDateTime;
 
 @Getter
