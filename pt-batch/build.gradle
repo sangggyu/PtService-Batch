@@ -30,6 +30,9 @@ dependencies {
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
 
+	// hibernate-types
+	implementation 'com.vladmihalcea:hibernate-types-55:2.12.0'
+
 	// mapstruct
 	implementation 'org.mapstruct:mapstruct:1.5.2.Final'
 	annotationProcessor 'org.mapstruct:mapstruct-processor:1.5.2.Final'
