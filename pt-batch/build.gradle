@@ -36,6 +36,9 @@ dependencies {
 	// hibernate-types
 	implementation 'com.vladmihalcea:hibernate-types-55:2.12.0'
 
+	// csv
+	implementation 'com.opencsv:opencsv:5.7.0'
+
 
 	// mapstruct
 	implementation 'org.mapstruct:mapstruct:1.5.2.Final'

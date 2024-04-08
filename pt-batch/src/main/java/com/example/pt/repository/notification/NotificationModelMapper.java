@@ -1,7 +1,7 @@
 package com.example.pt.repository.notification;
 
 import com.example.pt.repository.booking.BookingEntity;
-import com.example.pt.repository.utill.LocalDateTimeUtils;
+import com.example.pt.utill.LocalDateTimeUtils;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.Named;

@@ -1,4 +1,4 @@
-package com.example.pt.repository.utill;
+package com.example.pt.utill;
 
 import io.micrometer.core.instrument.util.StringUtils;
 
