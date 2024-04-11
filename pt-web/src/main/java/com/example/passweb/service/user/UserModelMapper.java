@@ -1,5 +1,6 @@
 package com.example.passweb.service.user;
 
+import com.example.passweb.repository.user.UserEntity;
 import org.mapstruct.Mapper;
 import org.mapstruct.ReportingPolicy;
 import org.mapstruct.factory.Mappers;

@@ -1,5 +1,9 @@
 package com.example.passweb.controller.pass;
 
+import com.example.passweb.service.pass.Pass;
+import com.example.passweb.service.pass.PassService;
+import com.example.passweb.service.user.User;
+import com.example.passweb.service.user.UserService;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

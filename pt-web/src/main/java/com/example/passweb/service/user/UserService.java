@@ -1,5 +1,7 @@
 package com.example.passweb.service.user;
 
+import com.example.passweb.repository.user.UserEntity;
+import com.example.passweb.repository.user.UserRepository;
 import org.springframework.stereotype.Service;
 
 @Service
